@@ -1,1 +1,1 @@
-dwasdsdprint("New Hello World 2 v2")
+print("New Hello World 2 v2")
